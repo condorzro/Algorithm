@@ -1,2 +1,2 @@
 # Algorithm
-Practicing algorithms, and solve problems
+Studying and Practicing algorithms, and solving problems
